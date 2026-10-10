@@ -19,7 +19,7 @@ O ambiente é composto por múltiplos departamentos empresariais (**Dep. Vendas*
 
 | Recurso | Ação |
 | :--- | :--- |
-| **Arquivo do Lab (.pkt)** | [![Baixar Laboratório](https://img.shields.io/badge/Download-Baixar_.pkt-green?style=for-the-badge&logo=cisco)](https://github.com/unknown-code7/troubleshooting-numa-rede-lan/raw/main/Troubleshooting%20numa%20Rede%20LAN.pkt) |
+| **Arquivo do Lab (.pkt)** | [![Baixar Laboratório](https://img.shields.io/badge/Download-Baixar_.pkt-green?style=for-the-badge&logo=cisco)](https://raw.githubusercontent.com/unknown-code7/troubleshooting-numa-rede-lan/main/Troubleshooting%20numa%20Rede%20LAN.pkt) |
 | **Vídeo Explicativo** | [![Assistir Tutorial](https://img.shields.io/badge/Assistir_Tutorial-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/v/1E38dUELg9/) |
 
 ---
